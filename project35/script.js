@@ -40,3 +40,4 @@ leftButton.addEventListener('click', () => {
 	changeImage();
 	resetInterval();
 });
+//
